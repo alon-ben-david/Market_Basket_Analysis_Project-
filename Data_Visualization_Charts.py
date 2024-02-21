@@ -63,6 +63,4 @@ def visualize_all(data):
     total_revenue_by_month_in_year(data)
     plt.show()
 
-# Example usage
-# Assuming your DataFrame is named 'data'
-# Call the visualize_all function to show all visualizations
+
