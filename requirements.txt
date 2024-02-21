@@ -1,0 +1,11 @@
+Pandas
+NumPy
+matplotlib
+seaborn
+openpyxl
+cufflinks
+plotly
+chart_studio
+scikit-learn
+pip install
+thinker
