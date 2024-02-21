@@ -2,7 +2,7 @@
 
 The Market Basket Analysis project aims to extract practical insights from a comprehensive historical in-store purchase database.
 Rigorous data cleaning procedures have been implemented to ensure the accuracy and reliability of the information.
-Visual data presentation techniques are utilized for clear and efficient communication of key insights.
+Visual data presentation techniques are utilized for clear and efficient communication of insights to the administrative level.
 
 ## Key Project Features:
 
